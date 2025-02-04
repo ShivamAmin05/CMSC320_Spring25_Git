@@ -4,5 +4,9 @@ Answer: It allows us to keep track of a programs version history and work on it 
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: Data Science can be used in the feild of medicine to figure out the effectiveness of certain drugs amoung a trial group.
+Answer: Data Science can be used in the field of medicine to figure out the effectiveness of certain drugs amoung a trial group.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merge combines commits from multiple branches in order while rebase takes one branch and puts the commits at the end of the main branch 
 
