@@ -10,3 +10,6 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: merge combines commits from multiple branches in order while rebase takes one branch and puts the commits at the end of the main branch 
 
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to working on a large project using Python libraries like Pandas. 
